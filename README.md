@@ -3,12 +3,12 @@
 Examples Will include:
 1.  Ridge & lasso shrinkage, elastic net
 2.	Principal components regression & PLS
-3.	R APIS
+3.	R - APIS
 4.	LDA
 5.	Regularized logistic regression
 6.	Splines
 7.	Model assessment, and to use to pick best params in model (CV, boostrap, AUC)
-8.	Bagging, stacking, bumping, boosting
+8.	enemble methods (Bagging, stacking, bumping, boosting)
 9.	GAM
 10.	Xgboost
 11.	MARS
@@ -22,4 +22,5 @@ Examples Will include:
 19.	SRV
 20.	VAR
 21.	DLM
+22. Graph Analysis
 `
